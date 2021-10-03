@@ -1,0 +1,21 @@
+body{
+
+}
+.container-1{
+     text-align: center;
+     margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-1 i{
+    font-size: 55px;
+}
+.container-1 h1{
+    font-size: 55px;
+}
+.container-2{
+    text-align: center;
+    font-size: 30px;
+    margin-top: -65px;
+}
